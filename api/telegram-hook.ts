@@ -13,7 +13,7 @@ const bot = new Telegraf(BOT_TOKEN);
 export async function handleStartCommand(ctx) {
   const COMMAND = "/start";
   const channelUrl = "t.me/gateProxy0";
-  const targetUrl = "t.me/+F2tlJJ-m4XU1OWI0";
+  const targetUrl = "t.me/+o0MJ0XNbAbs4ZDVk";
 
   // Welcome message with Markdown formatting
   const reply = `
